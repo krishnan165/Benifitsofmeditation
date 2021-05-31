@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background: linear-gradient(#00ff1e 0%, #f6ff00 100%);
+}
+body p{
+    font-size:20px;
+    font-family:cursive;
+}
+body h2{
+    font-family:fantasy;
+    font-size:30px;
+}
+body h1{
+    font-size:40px;
+    font-family:monospace;
+}
+#medi1{
+    height:350px;
+}
